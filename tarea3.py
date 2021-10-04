@@ -2,7 +2,7 @@ x=2031
 y=34
 z=x//y
 
-saludo= "Hola profe!"
+saludo= "Hola profe!, ¿Cómo está?"
 
 print (saludo)
 
